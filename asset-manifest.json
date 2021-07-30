@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-todo/static/css/main.18efb243.chunk.css",
+    "main.js": "/react-todo/static/js/main.67b396c8.chunk.js",
+    "main.js.map": "/react-todo/static/js/main.67b396c8.chunk.js.map",
+    "runtime-main.js": "/react-todo/static/js/runtime-main.ee249049.js",
+    "runtime-main.js.map": "/react-todo/static/js/runtime-main.ee249049.js.map",
+    "static/js/2.6be7bafe.chunk.js": "/react-todo/static/js/2.6be7bafe.chunk.js",
+    "static/js/2.6be7bafe.chunk.js.map": "/react-todo/static/js/2.6be7bafe.chunk.js.map",
+    "static/js/3.2d00f1fe.chunk.js": "/react-todo/static/js/3.2d00f1fe.chunk.js",
+    "static/js/3.2d00f1fe.chunk.js.map": "/react-todo/static/js/3.2d00f1fe.chunk.js.map",
+    "index.html": "/react-todo/index.html",
+    "static/css/main.18efb243.chunk.css.map": "/react-todo/static/css/main.18efb243.chunk.css.map",
+    "static/js/2.6be7bafe.chunk.js.LICENSE.txt": "/react-todo/static/js/2.6be7bafe.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/react-todo/static/media/bg-desktop-light.3508d620.jpg",
+    "static/media/iconCross.6ee81d30.svg": "/react-todo/static/media/iconCross.6ee81d30.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee249049.js",
+    "static/js/2.6be7bafe.chunk.js",
+    "static/css/main.18efb243.chunk.css",
+    "static/js/main.67b396c8.chunk.js"
+  ]
+}
